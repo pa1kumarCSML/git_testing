@@ -1,3 +1,2 @@
-# git_testing
-
+# Git
 my learnings from git workshop
